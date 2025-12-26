@@ -2,6 +2,21 @@
 
 A multi-agent system for constructing safety-critical control system software following MISRA C++ 2023 guidelines, incorporating Test-Driven Development (TDD) and the NASA Swiss Cheese Model for defect escape prevention.
 
+## Quick Start
+
+View the agent documentation:
+
+```bash
+# View the orchestrator workflow
+cat orchestrator.md
+
+# Explore a specific agent (e.g., requirements)
+cat 01_requirements_agent.md
+
+# See example usage
+cat motor_controller_example.md
+```
+
 ## Swiss Cheese Model Architecture
 
 ```
